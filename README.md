@@ -1,1 +1,1 @@
-# research-ai-agents-communication
+# Communication of AI Agents
