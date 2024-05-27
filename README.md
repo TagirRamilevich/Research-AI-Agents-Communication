@@ -13,6 +13,7 @@ This repository contains the code and data for the research project "Communicati
 - [Contributing](#contributing)
 - [License](#license)
 - [References](#references)
+- [Contacts](#contacts)
 
 ## Introduction
 
@@ -66,3 +67,10 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 * Zhuge, M., et al. (2023). Mindstorms in Natural Language-Based Societies of Mind. arXiv.
 
 For more information, please visit the [project repository](https://github.com/TagirRamilevich/research-ai-agents-communication/).
+
+## Contacts  
+
+* Telegram: [@travelwithtagir](https://t.me/travelwithtagir/)  
+* Data Blog: [@tagir_analyzes](https://t.me/tagir_analyzes/)  
+* LinkedIn: [Tagir Khairutdinov](https://linkedin.com/in/tagir-data-analyst/)  
+
