@@ -55,7 +55,7 @@ Contributions are welcome! If you find a bug or have a feature request, please o
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.  
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/TagirRamilevich/research-ai-agents-communication/blob/main/LICENSE) file for details.  
 
 ## References  
 
@@ -65,4 +65,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 * Littman, M. L. (1994). Markov games as a framework for multi-agent reinforcement learning. Proceedings of the Eleventh International Conference on Machine Learning, 157-163.  
 * Zhuge, M., et al. (2023). Mindstorms in Natural Language-Based Societies of Mind. arXiv.
 
-For more information, please visit the project repository.
+For more information, please visit the [project repository](https://github.com/TagirRamilevich/research-ai-agents-communication/).
